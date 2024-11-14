@@ -1,6 +1,6 @@
 # Holla! , I'm Sherif👋
 
-**Software Engineer** | Python | Java | NodeJS | React | Mobile | ExpressJS | AWS Serverless
+**Software Engineer** | Java | NodeJS | Python | SpringBoot | ExpressJS | AWS Serverless
 
 Welcome to my GitHub profile! I'm a software engineer with less than 4 years of experience building dynamic, scalable applications across various platforms. I enjoy working with both backend and frontend technologies, and I'm always keen on solving complex problems through clean, efficient code.
 
